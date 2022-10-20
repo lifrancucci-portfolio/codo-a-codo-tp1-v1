@@ -1,7 +1,7 @@
 # CODO A CODO
-## Trabajo Integrador 1 - versión 1.0
+## Trabajo Integrador - versión 1.0
 
-Este es el Trabajo Integrador 1 del curso **Fullstack - NodeJS** del programa **Codo a Codo**
+Este es el Trabajo Integrador del curso **Fullstack - NodeJS** del programa **Codo a Codo**
 
 Fue realizado respetando el diseño provisto por la cátedra. 
 
